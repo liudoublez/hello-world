@@ -8,3 +8,5 @@ Currently I am looking for:
 Middle and Senior Automation QA Engineers, who want to work with C# (Dnipro)
 
 Middle+ Frontend Developer, who wants to work with React (remote mainly from Dnipro)
+
+Magento 2 Devs (Chernivtsi, Khmelnitsky or remote)
